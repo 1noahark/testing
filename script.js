@@ -1,1 +1,5 @@
-console.log("test");
+function n(a){
+    console.log(a)
+}
+
+n("a")
